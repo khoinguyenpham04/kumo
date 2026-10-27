@@ -1,5 +1,15 @@
 # @cloudflare/kumo
 
+## 2.17.0
+
+### Minor Changes
+
+- c2b2fc4: Add a `masked` option to `ClipboardText` for sensitive values that should be hidden initially and revealed on demand.
+
+### Patch Changes
+
+- 890a6ab: Add a full-width `LayerDialog.Separator` for dividing sections of dialog body content.
+
 ## 2.16.0
 
 ### Minor Changes
